@@ -2,7 +2,7 @@
     "apps": [
         {
             "name": "my-app",
-            "script": "python3 myapp.py",
+            "script": "python3 main.py",
             "args" : ""
         }
     ]
